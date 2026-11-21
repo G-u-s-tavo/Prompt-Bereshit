@@ -1,4 +1,4 @@
-# Prompt-Bereshit 2.0
+# Prompt-Bereshit
 
 **Ideias ganham estrutura.** Prompt-Bereshit é um espaço de trabalho para transformar ideias ou projetos existentes em especificações revisáveis e prompts executáveis. Esta versão aprofunda o fluxo local de descoberta, introduz o caminho **Improve** e estabelece uma fundação modular para futuras integrações com provedores de IA.
 
