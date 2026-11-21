@@ -1,0 +1,13 @@
+{
+  "name": "prompt-bereshit",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Workspace local-first para descoberta, especificação e engenharia de prompts.",
+  "scripts": {
+    "dev": "node server/dev-server.mjs",
+    "test": "node --test",
+    "check": "node --check assets/js/app.js && node --check assets/js/generator.js && node --check assets/js/modules.js && node --check assets/js/core/persistence.js && node --check assets/js/core/specification.js && node --check assets/js/providers/contract.js"
+  },
+  "engines": { "node": ">=20" }
+}
